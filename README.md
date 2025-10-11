@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **akacinjakub@gmail.com or hit me up on linkedIn**
 
-- 🔥 Opinions: **Writing SQL sucks, and types are great!**
+- 🔥 Opinions: **Types are great, and writing SQL sucks! (Also it's pronounced sqeel)**
 
 
 <h3 align="left">Languages and Tools:</h3>
