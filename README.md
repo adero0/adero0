@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A chess, Java and all things complicated fan.</h3>
 
-- 🔭 I’m currently working on **too many projects at the same time!!**
-
 - 🌱 I’m currently learning **React, Lua**
 
 - 💬 Ask me anything about **Spring Boot or Vue**
