@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A chess, Java and all things complicated fan.</h3>
 
 - 🌱 I’m currently learning **React, Lua**
