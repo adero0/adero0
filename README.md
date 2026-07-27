@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
-<h3 align="center">A chess, Java and all things complicated fan.</h3>
+<h3 align="center">A chess, Java and all things complicated fan.</h3> (and phoneme/grapheme soon!)
 
 - 🌱 I’m currently learning **React, Lua, Kotlin(and hopefully someday Golang)**
 
