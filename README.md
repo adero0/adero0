@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 <h3 align="center">A chess, Java and all things complicated fan.</h3> 
 <h4 align="center">(and phoneme/grapheme stuff soon!)</h4>
+
 - 🌱 I’m currently learning **React, Lua, Kotlin(and hopefully someday Golang)**
 
 - 💬 Ask me anything about **Spring Boot or Vue**
