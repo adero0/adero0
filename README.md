@@ -6,7 +6,7 @@
 
 - 💬 Ask me anything about **Spring Boot or Vue**
 
-- 📫 How to reach me: **akacinjakub@gmail.com or hit me up on linkedIn**
+- 📫 How to reach me: **akacinjakub@gmail.com** or hit me up on **[LinkedIn](https://linkedin.com/in/jakub-akacin)**
 
 - 🔥 Opinions: **Types are great, and writing SQL sucks! (Also it's pronounced sqeel)**
 
