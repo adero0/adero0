@@ -2,13 +2,13 @@
 <h3 align="center">A chess, Java and all things complicated fan.</h3> 
 <h4 align="center">(and phoneme/grapheme stuff soon!)</h4>
 
-- 🌱 I’m currently learning **React, Lua, Kotlin (~~and hopefully someday Golang~~)**
+- I’m currently learning **React, Lua, Kotlin (~~and hopefully someday Golang~~)**
 
-- 💬 Ask me anything about **Spring Boot or Vue**
+- Ask me anything about **Spring Boot or Vue3**
 
-- 📫 How to reach me: **akacinjakub@gmail.com** or hit me up on **[LinkedIn](https://linkedin.com/in/jakub-akacin)**
+- How to reach me: **akacinjakub@gmail.com** or hit me up on **[LinkedIn](https://linkedin.com/in/jakub-akacin)**
 
-- 🔥 Opinions: **Types are great, and writing SQL sucks! (Also it's pronounced sqeel)**
+- Hot Opinions: **Types are great, and writing SQL sucks! (Also it's pronounced sqeel)**
 
 
 <h3 align="left">Languages and Tools:</h3>
